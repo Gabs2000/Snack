@@ -34,5 +34,10 @@ namespace Oasis
             this.Hide();
             Menu.Show();
         }
+
+        private void Hora_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
