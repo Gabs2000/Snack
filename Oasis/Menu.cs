@@ -15,6 +15,17 @@ namespace Oasis
         public Menu()
         {
             InitializeComponent();
+            timer1.Enabled = true;
+        }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            hora.Text = DateTime.Now.ToString();
         }
     }
 }

@@ -7,3 +7,4 @@ C:\Users\cesar\source\repos\Snack\Oasis\obj\Debug\Oasis.Properties.Resources.res
 C:\Users\cesar\source\repos\Snack\Oasis\obj\Debug\Oasis.csproj.GenerateResource.cache
 C:\Users\cesar\source\repos\Snack\Oasis\obj\Debug\Oasis.exe
 C:\Users\cesar\source\repos\Snack\Oasis\obj\Debug\Oasis.pdb
+C:\Users\cesar\source\repos\Snack\Oasis\obj\Debug\Oasis.Menu.resources

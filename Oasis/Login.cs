@@ -15,6 +15,24 @@ namespace Oasis
         public Login()
         {
             InitializeComponent();
+            timer1.Enabled = true;
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            hora.Text = DateTime.Now.ToString();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Login Menu = new Login();
+            this.Hide();
+            Menu.Show();
         }
     }
 }
