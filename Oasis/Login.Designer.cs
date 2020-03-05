@@ -107,6 +107,7 @@
             // 
             // panel1
             // 
+            this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
             this.panel1.Controls.Add(this.hora);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label1);
