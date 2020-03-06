@@ -39,5 +39,12 @@ namespace Oasis
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Menu toMenu = new Menu();
+            this.Hide();
+            toMenu.Show();
+        }
     }
 }

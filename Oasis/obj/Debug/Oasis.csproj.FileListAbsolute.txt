@@ -20,3 +20,14 @@ C:\Users\gus64\source\repos\Snack3\Oasis\obj\Debug\Oasis.pdb
 C:\Users\gus64\source\repos\Snack3\Oasis\bin\Debug\Oasis.exe.config
 C:\Users\gus64\source\repos\Snack3\Oasis\bin\Debug\Oasis.exe
 C:\Users\gus64\source\repos\Snack3\Oasis\bin\Debug\Oasis.pdb
+C:\Users\cesar\source\repos\SnackOasis\Oasis\bin\Debug\Oasis.exe.config
+C:\Users\cesar\source\repos\SnackOasis\Oasis\bin\Debug\Oasis.exe
+C:\Users\cesar\source\repos\SnackOasis\Oasis\bin\Debug\Oasis.pdb
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.Login.resources
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.Menu.resources
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.Pedido_de_mesa.resources
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.Properties.Resources.resources
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.exe
+C:\Users\cesar\source\repos\SnackOasis\Oasis\obj\Debug\Oasis.pdb
